@@ -9,7 +9,7 @@ A full-stack solution for collecting, analyzing, and managing application logs w
 
 ### 📡 API Component
 
-APP IS MOST BUILT IN MCV ARHITCETURE WITH BREZZE AUTH, WHIL HERE IS ONLY API ROUTE FOR ADDING LOGS
+APP IS MOST BUILT IN MCV ARHITCETURE WITH BREZZE AUTH, WHILE HERE IS ONLY API ROUTE FOR ADDING LOGS
 
 | Feature            | Description                                                   |
 |--------------------|---------------------------------------------------------------|
@@ -85,7 +85,7 @@ Find a example of postan collection to test api in Log API.postman_collection
 - Full logs managment option, in lower hand adding full CRUD optios for log
 
 
-THERE IS LOTOF MORE THING THAT CAN BE UPGRADED FROM LOGIC TO TEHNICAL BUT THIS IS SOME BASIC, TAHAT APP CAN BE USED
+THERE IS LOT OF MORE THINGs THAT CAN BE UPGRADED, FROM LOGIC TO TEHNICAL BUT THIS IS SOME BASIC, THAT APP CAN BE USED
 
 
 
